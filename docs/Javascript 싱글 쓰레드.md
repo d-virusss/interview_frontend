@@ -8,7 +8,7 @@
 
 JS의 비동기 런타임 과정
 
-![Untitled](Javascript%20%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%B3%E1%86%AF%20%E1%84%8A%E1%85%B3%E1%84%85%E1%85%A6%E1%84%83%E1%85%B3%2088ceeb5e2f24453fbced3b288470146e/Untitled.png)
+![single Thread](https://user-images.githubusercontent.com/55905801/164890986-6a719446-5646-442d-95f9-be0971cc8f71.png)
 
 - **Call Stack**: 자바스크립트에서 수행해야 할 함수들을 순차적으로 스택에 담아 처리
 - **Web API**: 웹 브라우저에서 제공하는 API로 AJAX나 Timeout등의 비동기 작업을 실행
