@@ -12,7 +12,7 @@
 
 [React 관련](https://www.notion.so/React-b6faae41f142416292d238e3d5bfb047)
 
-[Javascript 싱글 쓰레드](https://www.notion.so/Javascript-eb8788f530f44243b0949585d69ed265)
+[Javascript 싱글 쓰레드](https://github.com/d-virusss/interview_frontend/blob/main/docs/Javascript%20%EC%8B%B1%EA%B8%80%20%EC%93%B0%EB%A0%88%EB%93%9C.md)
 
 [브라우저의 렌더링](https://www.notion.so/545cd3c6a9d84087968bb919eb4c2b2f)
 
@@ -82,4 +82,3 @@
 14. 프론트엔드의 보안이슈
 15. TDD
 16. css 전처리기와 post-css
-17. JS Prototype
