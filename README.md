@@ -2,6 +2,9 @@
 
 네이버 면접을 준비하며 정리했던 내용들입니다.
 
+git에서 보시는거보다 notion링크를 통해 보시는 게 편합니다.
+[Notion 링크](https://github.com/d-virusss/interview_frontend.git)
+
 # 면접 준비
 
 [Babel 이란?](https://github.com/d-virusss/interview_frontend/blob/main/docs/Babel%20%EC%9D%B4%EB%9E%80.md)
